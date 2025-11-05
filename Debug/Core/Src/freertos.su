@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:80:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:126:6:AppTask_Show	24	static
+../Core/Src/freertos.c:147:6:HAL_ADC_ConvCpltCallback	24	static,ignoring_inline_asm
+../Core/Src/freertos.c:161:5:__io_putchar	16	static
